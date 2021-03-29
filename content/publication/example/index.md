@@ -7,9 +7,9 @@ title: "Diversifying Greedy Sampling and Evolutionary Diversity Optimisation for
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- A. Neumann
-- J. Bossek
-- F. Neumann 
+- Aneta Neumann
+- Jakob Bossek
+- Frank Neumann 
 
 # Author notes (optional)
 # author_notes:
@@ -76,8 +76,8 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
+#slides: example
+#---
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
